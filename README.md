@@ -16,7 +16,9 @@ While this code is highly customized for a specific setup, it may serve as inspi
 
 ## Demo
 
-[Watch the video](https://github.com/orzhan/robotic-arm-gpt/releases/download/v0-video/robot-3-demos-low.mp4)
+[![Watch the video](https://img.youtube.com/vi/1x7AYy6SPoE/maxresdefault.jpg)](https://youtu.be/1x7AYy6SPoE)
+
+[Download the video](https://github.com/orzhan/robotic-arm-gpt/releases/download/v0-video/robot-3-demos-low.mp4)
 
 Please enable sound to hear the instructions and the robot's reasoning.
 
