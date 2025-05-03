@@ -12,11 +12,12 @@ import anthropic
 from openai import OpenAI
 
 # Local imports
-from robot import init_sdk, init_components, move_servo, move_servo_slow, move_two_servos_sync
+from robot import init_sdk, init_components, move_servo, move_servo_slow, move_two_servos_sync, execute_string_command
 from webcamera import WebcamCapture
 from tts import OpenAITTSQueue
 from stt import WhisperCommandQueue
 from util import image_to_uri, encode_credentials
+from prompt import system_prompt_simple
 
 anthropic_key = "sk-ant-KEY"
 username = 'P'
